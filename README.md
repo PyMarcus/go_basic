@@ -4,3 +4,4 @@
 * Quick sort -> algoritmo de ordenação
 * Estatísticas de quantas letras iniciais e quais há em cada palavra passada por linha de comando
 * Estrutura de dados do tipo Pilha.
+* Gerador de números aleatórios baseado no tempo
